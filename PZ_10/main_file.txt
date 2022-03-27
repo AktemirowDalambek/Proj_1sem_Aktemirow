@@ -1,0 +1,14 @@
+Initial Data:
+-32 -62 33 -3 29 48 -25 92 26 -15 26 93 37 -55 73 -29 
+
+Amount of elements:
+ 16
+
+Negative not even elements:
+ -3 -25 -15 -55 -29
+
+Sum of negative not even elements:
+ -127
+
+Arithmetical mean:
+ -25.4
